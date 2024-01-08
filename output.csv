@@ -1,0 +1,6 @@
+Nom du graphe; Nombre de sommets; Nombre d'arêtes; Degré maximal; Nombre de composantes connexes; NbrCycle3sommet;
+CA-GrQc.txt; 5242; 14490; 81; 355; 48283; 
+FacebookSites.csv; 22470; 170912; 709; 1; 795747; 
+Github.csv; 37700; 289003; 9458; 1; 523810; 
+twitchDE.csv; 9498; 153138; 4259; 1; 603088; 
+Wikipedia1.csv; 2277; 31396; 732; 1; 344392; 

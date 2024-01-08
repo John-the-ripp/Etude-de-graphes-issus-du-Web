@@ -1,0 +1,6 @@
+Nom du graphe; Nombre de sommets; Nombre d'arêtes; Degré maximal; Nombre de composantes connexes; Nombre de cycles avec 3 sommets; dégénérescence
+C:\Users\acer\Desktop\Anoussaa\TEEEST\CA-GrQc.txt; 5242; 14490; 81; 355; 48283; 43
+C:\Users\acer\Desktop\Anoussaa\TEEEST\FacebookSites.csv; 22470; 170912; 709; 1; 795747; 56
+C:\Users\acer\Desktop\Anoussaa\TEEEST\Github.csv; 37700; 289003; 9458; 1; 523810; 34
+C:\Users\acer\Desktop\Anoussaa\TEEEST\twitchDE.csv; 9498; 153138; 4259; 1; 603088; 43
+C:\Users\acer\Desktop\Anoussaa\TEEEST\Wikipedia1.csv; 2277; 31396; 732; 1; 344392; 63
